@@ -1,0 +1,25 @@
+#section_1, .site-header a {
+  color: #fff;
+}
+
+.site-header {
+  background: #30c2c6;
+}
+.site-header .svg g {
+  fill: #fff;
+}
+
+#section_1 {
+  background: bottom right no-repeat url(../img/landing.png), 10rem top/15rem no-repeat url(../img/section_3.png), right 5rem top 2rem/19rem no-repeat url(../img/section_4.png), center top 1rem/8rem no-repeat url(../img/section_5.png), left bottom/31rem no-repeat url(../img/section_1-sm.png);
+  background-color: #f95e19;
+}
+
+#section_2 {
+  background: no-repeat url(../img/section_2.png);
+}
+
+.rocket {
+  font-size: 10rem;
+}
+
+/*# sourceMappingURL=main.css.map */
